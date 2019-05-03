@@ -1,8 +1,8 @@
-# Learning HTML, CSS, JS - JQuery, unfolded, sticky main menu
+# Learning HTML, CSS, JS - JQuery, unfolding, sticky navbar
 > Training course - Pasja Informatyki, CSS course, episode 3 ( [Link](https://www.youtube.com/watch?v=vd_GnTBzJ4U) )
 
 ## General info
-A simple webpage about retrogaming (with placeholder text) with a top main menu, which is sticky (stays always at the top). JQuery is used. Font is from Google Fonts. Icons are from Fontello.
+A simple webpage about retrogaming (with placeholder text) with a top main menu/navbar, which is sticky (stays always at the top). JQuery is used. Font is from Google Fonts. Icons are from Fontello.
 
 ## Technologies
 * HTML5
